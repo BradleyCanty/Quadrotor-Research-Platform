@@ -9,8 +9,8 @@ Documentation and code for a large, long endurance quadrotor meant for flight re
 * Ample top and bottom deck space for sensors and onboard computers
 
 ## Details
-Frame: Tarot X4
-Motors: XOAR Titan Air 8010
-ESCs: TBS Lucid 90A
-Flight controller: Pixhawk Cube Orange
-Power & peripheral distribution board: Kore Carrier Board
+* Frame: Tarot X4
+* Motors: XOAR Titan Air 8010
+* ESCs: TBS Lucid 90A
+* Flight controller: Pixhawk Cube Orange
+* Power & peripheral distribution board: Kore Carrier Board
