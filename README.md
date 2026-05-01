@@ -1,5 +1,5 @@
 # Quadrotor-Research-Platform
-Documentation and code for a large, long endurance quadrotor that's ideal for research projects. Its a simple, easy to use, and proven platform for flight experiments.
+Documentation and code for a large, long endurance quadrotor that's ideal for research projects. Its a simple, low cost, easy to use, and proven platform for flight experiments.
 ## Features
 * Lock-in-place 12s4p LiIon battery
 * Orientation lights (red = port side, green = starboard side)
