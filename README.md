@@ -3,5 +3,6 @@ Documentation and code for a large, long endurance quadrotor that's ideal for re
 ## Features
 * Lock-in-place 12s4p LiIon battery
 * Orientation lights (red = port side, green = starboard side)
+* Position lights (high power LEDs which strobe on/off)
 * Battery low voltage alarm (orange lights and buzzer)
 * Ample space for sensors and onboard computers
