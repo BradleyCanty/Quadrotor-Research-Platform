@@ -6,3 +6,4 @@ Documentation and code for a large, long endurance quadrotor that's ideal for re
 * Position lights (high power LEDs which strobe on/off)
 * Battery low voltage alarm (orange lights and buzzer)
 * Ample space for sensors and onboard computers
+* GPS/Magnetometer and Pilot Receiver RX/Telemetry TX integrated onto single mast
